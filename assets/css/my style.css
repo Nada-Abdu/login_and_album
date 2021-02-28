@@ -1,0 +1,41 @@
+.title {
+margin-top:250px;
+font-size:90px;
+margin-left:100px;
+
+}
+
+.body1 {
+padding-top:15px;
+padding-bottom:15px;
+
+}
+
+.errormessage {
+color:#FF0000;
+font-size:15px;
+}
+
+
+.headUserInfo {
+  background-image: url("../images/hero-1.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    opacity: 0.9;
+}
+
+
+.carousel-item-userINFO
+{
+  height:100px;
+  background-position: center center;
+}
+
+#info1 {
+color:#1F595B;
+font-size:15px;
+
+
+}
